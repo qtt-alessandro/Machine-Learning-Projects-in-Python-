@@ -1,2 +1,2 @@
-# Machine-Learning-Projects-in-Python-
-This folder contains some of the machine learning projects done during MSc in Data Science.
+# Python-Projects
+This folder contains python projects that I collaborated on with my college colleagues during my master's degree in Data Science.
